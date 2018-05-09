@@ -1,3 +1,3 @@
 # testDiff-Merge
 moved to another folder
-neka izmena
+neka izmena 2
